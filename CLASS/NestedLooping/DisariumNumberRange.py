@@ -50,4 +50,4 @@ for num in range(lr, ur+1):
 
 # 6th to 10th Disarium Number:
 
-
+# 10th Disarium Number:
