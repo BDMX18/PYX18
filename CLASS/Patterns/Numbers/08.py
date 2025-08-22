@@ -1,8 +1,14 @@
-# Using Generic Approach
+'''
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+'''
 
 n = int(input('Enter The Number Of Rows: '))
-dummy = 1
 for row in range(1, n+1):
+  dummy = 1
   for col in range(1, row+1):
     print(f'{dummy} ', end='')
     dummy += 1
