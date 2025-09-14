@@ -5,3 +5,7 @@ Sample Output:
 25
 48
 '''
+
+a = lambda num1: num1+15
+b = lambda num1, num2: num1*num2
+print(a(10), b(12, 4))
