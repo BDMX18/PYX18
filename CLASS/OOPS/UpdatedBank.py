@@ -91,7 +91,7 @@ print(manasa.customerDetails(), end='\n\n')
 
 print(Bank.customerDetails(vijaya), end='\n\n')
 
-# Making use of class method:
+#                                    Making use of class method:
 
 # Scenario 1: By class directly,
 print('Generic Properties Modified Using Class Method will make changes everywhere:')
