@@ -1,0 +1,19 @@
+1. Write a function to reverse a string without using slicing.
+
+2. Given a string, count the number of vowels and consonants.
+
+3. Remove all duplicate characters from a string while preserving order.
+
+4. Find the frequency of each word in a given sentence.
+
+5. Check if a string is a palindrome (ignore spaces, case, punctuation).
+
+6. Given a list of numbers, find the second largest number.
+
+7. Implement your own version of sum() using a for loop.
+
+8. Flatten a nested list (e.g. [1, [2, [3, 4]], 5] → [1, 2, 3, 4, 5]) without recursion.
+
+9. Remove all falsy values (None, 0, False, '', etc.) from a list.
+
+10. Merge two lists element-wise into a dictionary (keys from list1, values from list2).
