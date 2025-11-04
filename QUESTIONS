@@ -1,0 +1,15 @@
+'''
+Q6. Calculate Factorials Using Lambda and Map
+Use lambda and map() to calculate factorials of numbers in a list.
+Sample Data:
+      nums = [3, 5, 6]
+Expected Output:
+      [6, 120, 720]
+
+Q4. Character Frequency (Dictionary Comprehension)
+Write a program to count occurrences of each character in a given string using dictionary comprehension.
+Sample Data:
+      text = "mississippi"
+Expected Output:
+      {'m': 1, 'i': 4, 's': 4, 'p': 2}
+'''
