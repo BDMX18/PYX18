@@ -1,0 +1,1 @@
+Python is an interpreted language. It is dynamically typed and easy to learn.

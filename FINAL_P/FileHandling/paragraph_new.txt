@@ -1,0 +1,3 @@
+Python is great.
+It supports multiple programming paradigms.
+File handling is simple in Python.

@@ -1,0 +1,3 @@
+Python is a powerful language.
+  It is widely used for web development and data analysis.
+  File handling is an important concept in Python.
