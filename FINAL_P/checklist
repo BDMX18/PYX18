@@ -1,13 +1,31 @@
-1. Decorator,
+    1. Decorator,
 2. Types Of Arguements,
-3. Recursion,
+   3. Recursion,
 4. Pattern,
-5. Singleton Class,
-6. Types Of Inheritance,
-7. Abstraction,
-8. File Handling,
-9. Exception Handling,
-10. Generators,
-11. Iterators, 
-12. RegEx
-13. map(), filter(), reduce(), comprehension,
+   5. Singleton Class,
+   6. Types Of Inheritance,
+   7. Abstraction,
+   8. File Handling,
+   9. Exception Handling,
+   10. Generators,
+   11. Iterators, 
+   12. RegEx
+   13. map(), filter(), reduce(), comprehension,
+
+
+10/11:
+Iterators, Generators || OOPS
+
+11/11:
+OOPS, Types of Inheritance || Abstraction
+
+12/11:
+File Handling, Exception Handling || Decorator
+
+13/11:
+RegEx, FMRLC || OOPS
+
+14/11:
+RegEx, Singleton Class, Recursion 
+
+15/11:
