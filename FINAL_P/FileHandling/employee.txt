@@ -1,0 +1,1 @@
+[{"name": "John", "salary": 55000.0}, {"name": "Jane", "salary": 66000.0}, {"name": "Smith", "salary": 60500.0}]
